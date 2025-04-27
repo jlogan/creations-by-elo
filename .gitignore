@@ -21,8 +21,6 @@ tailwindcss-macos*
 .DS_Store
 
 # Env files
-.env
-.env.local
 
 # Logs
 logs/
@@ -31,3 +29,4 @@ logs/
 
 # OS junk
 Thumbs.db
+config.bat
